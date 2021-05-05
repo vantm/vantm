@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on .NET, React.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: ...
+
+### Some stats
+
+[![Van's GitHub stats](https://github-readme-stats.vercel.app/api?username=vantm&theme=dark)](https://github.com/vantm)
+
+
 <!--
 **tmvan/tmvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
