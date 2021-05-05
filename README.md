@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on .NET, React.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
 
 ### Some stats
 
