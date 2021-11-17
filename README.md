@@ -3,11 +3,6 @@
 - 🔭 I’m currently working on .NET, React.
 - 😄 Pronouns: He/him
 
-```typescript
-interface 🧑🏻‍💻 {
-    wmao(💡, ⌚): 💰;
-}
-```
 
 ### Stats
 
